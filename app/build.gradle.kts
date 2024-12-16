@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.tsafran.notificationsinterceptor"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.tsafran.notificationsinterceptor"
