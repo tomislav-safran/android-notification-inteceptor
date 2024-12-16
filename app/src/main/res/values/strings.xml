@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">notificationsInterceptor</string>
+    <string name="notifications_listener_name">NotificationsListener</string>
+</resources>
